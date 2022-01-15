@@ -1,0 +1,2 @@
+# PyMhtml
+MHTML Python parser
